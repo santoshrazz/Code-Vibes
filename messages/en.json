@@ -1,0 +1,96 @@
+{
+  "Navigation": {
+    "projects": "Projects",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "privacy_policy": "Privacy Policy",
+    "imprint": "Imprint",
+    "get_in_touch": "Get in Touch",
+    "turning_ideas_in_digital_reality": "Turning Ideas Into Digital Reality",
+    "ghostbyte_all_rights_reserved": "CodeVibes. All rights reserved.",
+    "navigation": "Navigation",
+    "blog": "Blog"
+  },
+  "Hero": {
+    "title_line_1": "Turning Ideas Into",
+    "title_line_2": "Digital Reality",
+    "description": "CodeVibes is a software development studio specializing in creating exceptional digital experiences for businesses and brands.",
+    "view_our_work": "View our Work",
+    "contact_us": "Contact us"
+  },
+  "Projects": {
+    "features_projects": "Featured Projects",
+    "description": "From mobile apps to web platforms — see what we've been building.",
+    "mobile_application": "Mobile App",
+    "android_application": "Android App",
+    "web_app": "Web App",
+    "resource_hub": "Resource Hub",
+    "manuvance_talent_description": "A talent management platform for the talent agency Manuvance.",
+    "github_release_stast_description": "Github Release Stats is a tool to check the stats of Github repositories. You can check the download history of releases and the star history of repositories.",
+    "daily_tasks_description": "A minimalist app that helps you prioritize your tasks each day using the Ivy Lee Method for better focus and productivity.",
+    "socialfolio_description": "A simple, open-source way to share your socials in one place.",
+    "library_description": "A collection of many useful websites and tools. They are sorted by category and include some tags to quickly find the right one for your needs.",
+    "roamripples_description": "Website for Roam Ripples, a travel agency.",
+    "together_description": "A tool for managing households and communities. Features are a shared shopping list, todos, calendar and more."
+  },
+  "Team": {
+    "title": "Our Team",
+    "description": "CodeVibes is a small but dedicated team of developers passionate about creating innovative and high-quality digital experiences.",
+    "daniel_job": "CEO & Creative Director",
+    "daniel_description": "Daniel is a developer passionate about crafting innovative and user-friendly software solutions.",
+    "emanuel_job": "CTO & Lead Developer",
+    "emanuel_description": "Emanuel brings expertise in development and problem-solving, ensuring high-quality and efficient applications at CodeVibes.",
+    "locationsTitle": "Our Locations",
+    "locationsDescription": "Our locations are Lustenau and Vienna. While we study in Vienna, we work on our projects from both places, staying connected to Vorarlberg as well as the capital."
+  },
+  "Contact": {
+    "title": "Get in touch",
+    "description": "Have a project in mind? Send us a message and let's create something amazing together.",
+    "name_label": "Name",
+    "name_placeholder": "Your name",
+    "email_label": "Email",
+    "email_placeholder": "your@email.com",
+    "subject_label": "Subject",
+    "subject_placeholder": "What's this about?",
+    "message_label": "Message",
+    "message_placeholder": "Tell us about yur project...",
+    "send_message": "Send Message",
+    "mail_directly": "Or email us directly at"
+  },
+  "Services": {
+    "title": "Our Services",
+    "description": "We offer a comprehensive range of software development services to help your business succeed.",
+    "mobile_development": "Mobile Development",
+    "mobile_development_description": "We build native and cross-platform mobile applications for iOS and Android that deliver exceptional user experiences.",
+    "web_development": "Web Development",
+    "web_development_description": "From simple websites to complex web applications, we create responsive and performant web solutions.",
+    "seo": "SEO",
+    "seo_description": "We optimize your website for search engines to improve visibility, increase traffic, and help your audience find you organically.",
+    "ui_ux_design": "UI/UX Design",
+    "ui_ux_design_description": "We create intuitive and visually appealing user interfaces that enhance user experience and engagement.",
+    "maintainance_support": "Maintenance & Support",
+    "maintainance_support_description": "We provide ongoing maintenance and support services to ensure your software continues to perform optimally."
+  },
+  "Imprint": {
+    "title": "Imprint",
+    "austria": "Austria",
+    "shareholder": "Shareholder",
+    "contact_information": "Contact information",
+    "disclaimer_headline": "Disclaimer",
+    "disclaimer_content": "The information contained on this website is for general information purposes only. CodeVibes GesbR does not guarantee the accuracy, completeness, or usefulness of any information on this site.",
+    "liability_headline": "Liability for Links",
+    "liability_content": "This website may contain links to external websites. CodeVibes GesbR has no control over the content of external websites and is not responsible for them."
+  },
+  "Privacy": {
+    "title": "Privacy Policy"
+  },
+  "Meta": {
+    "title": "CodeVibes – Web & App Development Studio in Austria",
+    "description": "CodeVibes is your partner for modern web & app development. We create custom software solutions with a focus on design, performance, and usability.",
+    "descriptionImprint": "Imprint of CodeVibes",
+    "titleImprint": "CodeVibes - Imprint",
+    "titlePrivacy": "CodeVibes - Privacy Policy",
+    "descriptionPrivacy": "Privacy Policy of CodeVibes"
+  }
+}

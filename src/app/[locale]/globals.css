@@ -1,0 +1,140 @@
+@import "tailwindcss";
+@import "highlight.js/styles/atom-one-light.css";
+
+@theme {
+  --color-light: #f2ede4;
+  --color-light-secondary: #ada79c;
+}
+
+@layer base {
+
+  html,
+  body {
+    @apply text-neutral-600 font-light bg-light
+  }
+
+  h1, h2, h3 {
+    @apply text-neutral-800 font-extrabold
+  }
+
+  button {
+    cursor: pointer;
+  }
+
+  .container {
+    @apply px-5 md:px-6 mx-auto
+  }
+}
+
+@layer utilities {
+
+
+  .link-text {
+    @apply relative;
+  }
+
+  .link-text::after {
+    @apply content-[''] absolute left-0 -bottom-1 h-0.5 w-full bg-neutral-300 transition-transform duration-200 scale-x-0 origin-left;
+  }
+
+  .link-text:hover::after {
+    @apply scale-x-100 origin-left ease-in;
+  }
+
+  .link-text:not(:hover)::after {
+    @apply origin-right ease-in;
+  }
+
+  .input {
+    @apply flex h-10 border border-neutral-600 px-3 py-2 text-light placeholder:text-light-secondary focus-visible:outline-none focus-visible:border-2 duration-300;
+  }
+}
+
+@layer components {
+  .markdown {
+    @apply text-lg leading-relaxed;
+  }
+
+  .markdown p,
+  .markdown ul,
+  .markdown ol,
+  .markdown blockquote {
+    @apply my-6;
+  }
+
+  .markdown h1 {
+    @apply text-4xl mt-6 leading-snug font-bold;
+  }
+
+  .markdown h2 {
+    @apply text-3xl mt-12 leading-snug font-bold;
+  }
+
+  .markdown h3 {
+    @apply text-2xl mt-8 mb-4 leading-snug font-bold;
+  }
+
+  .markdown h4 {
+    @apply text-2xl mt-6 mb-4 leading-snug;
+  }
+
+  .markdown hr {
+    @apply my-10;
+  }
+
+  .markdown a {
+    @apply underline font-medium hover:text-neutral-800
+  }
+
+  .markdown ul {
+    @apply list-disc ml-5
+  }
+
+  .markdown ol {
+    @apply list-decimal ml-5
+  }
+
+  .markdown code {
+    @apply text-sm my-3 rounded-xl;
+  }
+
+  .markdown img {
+    @apply my-3 rounded-xl;
+  }
+
+  .markdown blockquote {
+    @apply relative bg-white border-l-4 border-l-neutral-800 p-2.5 pl-5 my-5 italic rounded-xl
+  }
+
+  .markdown blockquote p {
+    @apply m-0
+  }
+
+
+  .leaflet-control-zoom {
+    border: none !important;
+
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1) !important;
+  }
+
+  /* Customizing the buttons */
+  .leaflet-bar a {
+    background-color: var(--color-neutral-800) !important;
+    color: #ada79c !important;
+    border-bottom: none !important;
+  }
+
+  /* Hover state */
+  .leaflet-bar a:hover {
+    background-color: #262626 !important;
+    /* Neutral-800 */
+    color: #f2ede4 !important;
+    /* Amber-500 */
+  }
+
+  .leaflet-control-attribution {
+    background-color: var(--color-neutral-800) !important;
+    opacity: 0.8 !important;
+    color: var(--color-light) !important;
+  }
+}
