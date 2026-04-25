@@ -11,10 +11,6 @@ type AccountItem = {
 
 const accounts: AccountItem[] = [
   {
-    link: "https://mastodon.social/@ghostbyte",
-    icon: "mastodon.svg",
-  },
-  {
     link: "https://instagram.com/ghostbyte.dev",
     icon: "instagram.png",
   },
@@ -25,11 +21,7 @@ const accounts: AccountItem[] = [
   {
     link: "https://github.com/ghostbyte-dev",
     icon: "github.svg",
-  },
-  {
-    link: "https://socialfolio.me/ghostbyte",
-    icon: "socialfolio.svg",
-  },
+  }
 ];
 
 export default async function SocialMediaSection({ lang }: { lang: Locale }) {
@@ -52,7 +44,7 @@ export default async function SocialMediaSection({ lang }: { lang: Locale }) {
             </p>
           </div>
 
-          <p className="font-semibold text-lg">Ghostbyte is on:</p>
+          <p className="font-semibold text-lg">CodeVibes is on:</p>
 
           <div className="flex gap-3">
             {accounts.map((account) => {

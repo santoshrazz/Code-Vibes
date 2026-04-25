@@ -39,12 +39,12 @@ export default function Navbar() {
       <Image
         src={
           variant === "white"
-            ? "/img/ghostbyte_logo_white.svg"
-            : "/img/ghostbyte_logo_black.svg"
+            ? "/img/codevibes-logo.png"
+            : "/img/codevibes-logo.png"
         }
-        className="h-[30px]"
-        width={38}
-        height={32}
+        className="h-[120px]"
+        width={100}
+        height={100}
         alt="CodeVibes logo"
       />
       <span

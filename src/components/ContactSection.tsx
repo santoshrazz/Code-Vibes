@@ -38,29 +38,29 @@ export default function ContactSection() {
         <div className="grid grid-cols-1 md:grid-cols-2 w-full gap-10 mt-10">
           <div className="flex flex-col gap-4">
             <div>
-              <h3 className="text-lg text-light mb-3">Lustenau</h3>
+              <h3 className="text-lg text-light mb-3">Patna</h3>
               <div>
                 <Link
                   className="hover:text-light hover:underline duration-300 flex flex-col"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href={"https://maps.app.goo.gl/ufFE52FR4iVxQhmU7"}
+                  href={"https://maps.app.goo.gl/pEwnhR9tbeNtgDoBA"}
                 >
-                  <span>Sonnenstraße 11a</span>
-                  <span>6890, Lustenau</span>
-                  <span>Austria</span>
+                  <span>05, Main Chowk</span>
+                  <span>Ranipur Khidki,Patna</span>
+                  <span>India</span>
                 </Link>
               </div>
             </div>
             <div className="aspect-3/2">
               <LeafletMapWrapper
-                center={[47.42339831023843, 9.656724735140145]}
+                center={[25.592580, 85.226736]}
               />
             </div>
           </div>
           <div className="flex flex-col gap-4">
             <div>
-              <h3 className="text-lg text-light mb-3">Wien</h3>
+              <h3 className="text-lg text-light mb-3">Bhagalpur</h3>
               <div>
                 <Link
                   className="hover:text-light hover:underline duration-300 flex flex-col"
@@ -68,15 +68,15 @@ export default function ContactSection() {
                   rel="noopener noreferrer"
                   href={"https://maps.app.goo.gl/ZGsChgLi4jGyq8ra6"}
                 >
-                  <span>Wallensteinstraße 64/15</span>
-                  <span>1200 Wien</span>
-                  <span>Austria</span>
+                  <span>Lal Kothi Ln, Tatarpur</span>
+                  <span>Bhagalpur, Bihar 812002</span>
+                  <span>India</span>
                 </Link>
               </div>
             </div>
             <div className="aspect-3/2">
               <LeafletMapWrapper
-                center={[48.231090761843014, 16.37625516840938]}
+                center={[25.241219, 86.961816]}
               />
             </div>
           </div>

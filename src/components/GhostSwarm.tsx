@@ -11,7 +11,7 @@ export default function GhostSwarm({ count = 12 }: { count?: number }) {
       startY: Math.random() * 80,
       driftY: Math.random() * 80,
       duration: 10 + Math.random() * 15,
-      size: 50 + Math.random() * 150,
+      size: 90 + Math.random() * 150,
     }));
     setGhostData(data);
   }, [count]);
@@ -37,7 +37,7 @@ export default function GhostSwarm({ count = 12 }: { count?: number }) {
           }}
         >
           <Image
-            src="/img/ghostbyte_logo_black.svg"
+            src="/img/codevibes-logo.png"
             alt="Ghost"
             width={ghost.size}
             height={ghost.size}

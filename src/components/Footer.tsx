@@ -73,10 +73,10 @@ export default async function Footer({ lang }: { lang: Locale }) {
             <div className="hidden md:block">
               <Image
                 alt=""
-                src="/img/ghostbyte_logo_white.svg"
-                height={16}
-                width={16}
-                className="w-16 h-16 object-contain"
+                src="/img/codevibes-logo.png"
+                height={100}
+                width={100}
+                className="w-3/4 h-3/4 object-contain"
               />
             </div>
             <div>
@@ -136,14 +136,14 @@ export default async function Footer({ lang }: { lang: Locale }) {
                     Github
                   </Link>
                 </li>
-                <li>
+                {/* <li>
                   <Link
                     className="link-text"
                     href="https://mastodon.social/@codevibes"
                   >
                     Mastodon
                   </Link>
-                </li>
+                </li> */}
                 <li>
                   <Link
                     className="link-text"

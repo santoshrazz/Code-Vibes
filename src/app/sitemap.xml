@@ -4,57 +4,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://ghostbyte.dev</loc>
+    <loc>https://codevibes.in</loc>
     <lastmod>2025-04-17T13:05:37.942Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ghostbyte.dev" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://ghostbyte.dev/de" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://codevibes.in" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/de" />
   </url>
 
   <url>
-    <loc>https://ghostbyte.dev/de</loc>
+    <loc>https://codevibes.in/de</loc>
     <lastmod>2025-04-17T13:05:37.942Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ghostbyte.dev" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://ghostbyte.dev/de" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://codevibes.in" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/de" />
   </url>
 
   <url>
-    <loc>https://ghostbyte.dev/imprint</loc>
+    <loc>https://codevibes.in/imprint</loc>
     <lastmod>2025-04-17T13:05:37.942Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ghostbyte.dev/imprint" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://ghostbyte.dev/de/impressum" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://codevibes.in" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/de" />
   </url>
 
   <url>
-    <loc>https://ghostbyte.dev/de/impressum</loc>
+    <loc>https://codevibes.in/de/impressum</loc>
     <lastmod>2025-04-17T13:05:37.942Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ghostbyte.dev/imprint" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://ghostbyte.dev/de/impressum" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://codevibes.in" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/de" />
   </url>
 
   <url>
-    <loc>https://ghostbyte.dev/privacy-policy</loc>
+    <loc>https://codevibes.in/privacy-policy</loc>
     <lastmod>2025-04-17T13:05:37.942Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ghostbyte.dev/privacy-policy" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://ghostbyte.dev/de/datenschutz" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://codevibes.in" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/de" />
   </url>
 
   <url>
-    <loc>https://ghostbyte.dev/de/datenschutz</loc>
+    <loc>https://codevibes.in/de/datenschutz</loc>
     <lastmod>2025-04-17T13:05:37.942Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ghostbyte.dev/privacy-policy" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://ghostbyte.dev/de/datenschutz" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://codevibes.in/privacy-policy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/de/datenschutz" />
   </url>
 
 </urlset>

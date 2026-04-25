@@ -25,11 +25,13 @@ export default async function LandingPage(props: {
 
         <ProjectsSection lang={lang} />
 
-        {/* <SocialMediaSection lang={lang} /> */}
-
         <ServiceSection lang={lang} />
 
-        <TeamSection lang={lang} />
+        <SocialMediaSection lang={lang} />
+
+
+
+        {/* <TeamSection lang={lang} /> */}
 
         {/* <TestimonialsSection /> */}
 
