@@ -1,11 +1,11 @@
 # CodeVibes Website
 
-![Screenshot of ghostbyte.dev website](https://github.com/santoshrazz/Code-Vibes/blob/ee27e3dc0794649698b4f3af0238f3e05291df70/assets/website-image.png)
+![Screenshot of codevibes.in website](https://github.com/santoshrazz/Code-Vibes/blob/ee27e3dc0794649698b4f3af0238f3e05291df70/assets/website-image.png)
 
-The **Ghostbyte Website** is the official landing page for **Ghostbyte**, a web and app development studio based in Austria.  
+The **CodeVibes Website** is the official landing page for **CodeVibes**, a web and app development studio based in Austria.  
 It showcases our projects, services, and our team, and provides ways to get in touch.
 
-Website: [codevibes.in](https://ghostbyte.dev)
+Website: [codevibes.in](https://CodeVibes.dev)
 
 <br>
 
@@ -43,7 +43,7 @@ npm run dev
 
 ## License
 
-Ghostbyte Website is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+CodeVibes Website is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
 
 See the [LICENSE](./LICENSE) file for details.
 
@@ -52,9 +52,9 @@ See the [LICENSE](./LICENSE) file for details.
 
 ## 👻 A CodeVibes Production
 
-<!-- ![Ghostbyte banner](https://github.com/ghostbyte-dev/ghostbyte-website/blob/53ed21675d8306f4c6885ae0653b2805ee5b2e06/assets/ghostbyte_banner.png) -->
+<!-- ![CodeVibes banner](https://github.com/CodeVibes-dev/CodeVibes-website/blob/53ed21675d8306f4c6885ae0653b2805ee5b2e06/assets/CodeVibes_banner.png) -->
 
 Have questions, feedback, or just want to say hi? Reach out to us and we’ll get back to you!
 
 Website: [codevibes.in](https://codevibes.in)  
-Email: [hey@ghostbyte.dev](mailto:hey@codevibes.in)
+Email: [hey@CodeVibes.dev](mailto:hey@codevibes.in)
