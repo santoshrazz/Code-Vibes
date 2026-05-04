@@ -149,28 +149,28 @@ export default function Navbar() {
         <div className="w-full flex justify-center text-light mb-8">
           <div className="flex gap-4 ">
             <Link
-              href="https://github.com/ghostbyte-dev"
+              href="https://github.com/codevibes"
               target="_blank"
               rel="noopener noreferrer"
             >
               <GithubIcon className="h-6 w-6" />
             </Link>
             <Link
-              href="https://www.linkedin.com/company/ghostbyte/"
+              href="https://www.linkedin.com/company/codevibes/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <LinkedinIcon className="h-6 w-6" />
             </Link>
             <Link
-              href="https://www.instagram.com/ghostbyte.dev/"
+              href="https://www.instagram.com/codevibes.in/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <InstagramIcon className="h-6 w-6" />
             </Link>
             <Link
-              href="https://mastodon.social/@ghostbyte"
+              href="https://mastodon.social/@codevibes"
               target="_blank"
               rel="noopener noreferrer me"
             >

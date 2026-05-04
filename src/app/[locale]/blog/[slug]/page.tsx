@@ -53,7 +53,7 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     return notFound();
   }
 
-  const title = `${post.title} | A Ghostbyte Story`;
+  const title = `${post.title} | A CodeVibes Story`;
 
   return {
     title,
@@ -62,7 +62,7 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
       images: [post.ogImage.url],
     },
     alternates: {
-      canonical: `https://ghostbyte.dev/blog/${post.slug}`,
+      canonical: `https://codevibes.in/blog/${post.slug}`,
     },
   };
 }

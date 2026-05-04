@@ -1,13 +1,12 @@
 import type { Metadata } from "next";
-import { HeroPost } from "@/src/components/blog/hero-post";
 import { MoreStories } from "@/src/components/blog/more-stories";
 import { Hero } from "@/src/components/Hero";
 import { getAllPosts } from "@/src/utils/blogApi";
 
 export const metadata: Metadata = {
-  title: "Blog | Ghostbyte",
+  title: "Blog | CodeVibes",
   alternates: {
-    canonical: "https://ghostbyte.dev/blog",
+    canonical: "https://codevibes.in/blog",
   },
 };
 
@@ -22,7 +21,7 @@ export default function BlogOverviewPage() {
     <div>
       <Hero
         title="Our Blog"
-        description="At Ghostbyte, we love building thoughtful software and sharing what
+        description="At CodeVibes, we love building thoughtful software and sharing what
             we learn along the way. Here you'll find deep dives into web and app
             development and behind-the-scenes looks at our projects."
       />
