@@ -18,7 +18,7 @@ export async function generateMetadata({
       { rel: "icon", type: "image/svg+xml", url: "/favicon.svg" },
     ],
     alternates: {
-      canonical: `https://ghostbyte.dev${locale === "de" ? "/de/impressum" : "/imprint"
+      canonical: `https://codevibes.in${locale === "de" ? "/de/impressum" : "/imprint"
         }`,
     },
   };

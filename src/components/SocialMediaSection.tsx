@@ -11,15 +11,15 @@ type AccountItem = {
 
 const accounts: AccountItem[] = [
   {
-    link: "https://instagram.com/ghostbyte.dev",
+    link: "https://instagram.com/codevibes.in",
     icon: "instagram.png",
   },
   {
-    link: "https://linkedin.com/ghostbyte.dev",
+    link: "https://linkedin.com/codevibes.in",
     icon: "linkedin.png",
   },
   {
-    link: "https://github.com/ghostbyte-dev",
+    link: "https://github.com/codevibes.in",
     icon: "github.svg",
   }
 ];

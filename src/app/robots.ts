@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://ghostbyte.dev/sitemap.xml",
+    sitemap: "https://codevibes.in/sitemap.xml",
   };
 }
