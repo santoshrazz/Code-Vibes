@@ -9,16 +9,16 @@
     <changefreq>monthly</changefreq>
     <priority>1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://codevibes.in" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/de" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/hi" />
   </url>
 
   <url>
-    <loc>https://codevibes.in/de</loc>
+    <loc>https://codevibes.in/hi</loc>
     <lastmod>2025-04-17T13:05:37.942Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://codevibes.in" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/de" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/hi" />
   </url>
 
   <url>
@@ -27,16 +27,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://codevibes.in" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/de" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/hi" />
   </url>
 
   <url>
-    <loc>https://codevibes.in/de/impressum</loc>
+    <loc>https://codevibes.in/hi/imprint</loc>
     <lastmod>2025-04-17T13:05:37.942Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://codevibes.in" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/de" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/hi" />
   </url>
 
   <url>
@@ -45,16 +45,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://codevibes.in" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/de" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/hi" />
   </url>
 
   <url>
-    <loc>https://codevibes.in/de/datenschutz</loc>
+    <loc>https://codevibes.in/hi/privacy-policy</loc>
     <lastmod>2025-04-17T13:05:37.942Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://codevibes.in/privacy-policy" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/de/datenschutz" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://codevibes.in/hi" />
   </url>
 
 </urlset>

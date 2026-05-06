@@ -85,12 +85,19 @@
   "Privacy": {
     "title": "Privacy Policy"
   },
+  "Blog": {
+    "title": "Our Blog",
+    "description": "At CodeVibes, we love building thoughtful software and sharing what we learn along the way. Here you'll find deep dives into web and app development and behind-the-scenes looks at our projects.",
+    "read_more": "Read more"
+  },
   "Meta": {
-    "title": "CodeVibes – Web & App Development Studio in Austria",
+    "title": "CodeVibes – Web & App Development Studio in India",
     "description": "CodeVibes is your partner for modern web & app development. We create custom software solutions with a focus on design, performance, and usability.",
     "descriptionImprint": "Imprint of CodeVibes",
     "titleImprint": "CodeVibes - Imprint",
     "titlePrivacy": "CodeVibes - Privacy Policy",
-    "descriptionPrivacy": "Privacy Policy of CodeVibes"
+    "descriptionPrivacy": "Privacy Policy of CodeVibes",
+    "titleBlog": "Blog | CodeVibes",
+    "descriptionBlog": "Read our latest articles about web development, app development, and software engineering."
   }
 }

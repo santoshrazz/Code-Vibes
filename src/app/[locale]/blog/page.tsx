@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import { useTranslations } from "next-intl";
+import type { Locale } from "@/i18n-config";
 import { MoreStories } from "@/src/components/blog/more-stories";
 import { Hero } from "@/src/components/Hero";
 import { getAllPosts } from "@/src/utils/blogApi";
@@ -10,7 +12,10 @@ export const metadata: Metadata = {
   },
 };
 
-export default function BlogOverviewPage() {
+export default async function BlogOverviewPage(props: {
+  params: Promise<{ locale: Locale }>;
+}) {
+  const { locale } = await props.params;
   const allPosts = getAllPosts();
 
   const heroPost = allPosts[0];
@@ -19,24 +24,24 @@ export default function BlogOverviewPage() {
 
   return (
     <div>
+      <BlogContent posts={allPosts} />
+    </div>
+  );
+}
+
+function BlogContent({ posts }: { posts: any[] }) {
+  const t = useTranslations("Blog");
+
+  return (
+    <>
       <Hero
-        title="Our Blog"
-        description="At CodeVibes, we love building thoughtful software and sharing what
-            we learn along the way. Here you'll find deep dives into web and app
-            development and behind-the-scenes looks at our projects."
+        title={t("title")}
+        description={t("description")}
       />
 
       <div className="container">
-        {/* <HeroPost
-          title={heroPost.title}
-          coverImage={heroPost.coverImage}
-          date={heroPost.date}
-          author={heroPost.author}
-          slug={heroPost.slug}
-          excerpt={heroPost.excerpt}
-        /> */}
-        {allPosts.length > 0 && <MoreStories posts={allPosts} />}
+        {posts.length > 0 && <MoreStories posts={posts} />}
       </div>
-    </div>
+    </>
   );
 }
