@@ -2,7 +2,7 @@
 
 ![Screenshot of codevibes.in website](https://github.com/santoshrazz/Code-Vibes/blob/ee27e3dc0794649698b4f3af0238f3e05291df70/assets/website-image.png)
 
-The **CodeVibes Website** is the official landing page for **CodeVibes**, a web and app development studio based in Austria.  
+The **CodeVibes Website** is the official landing page for **CodeVibes**, a web and app development company based in Austria.  
 It showcases our projects, services, and our team, and provides ways to get in touch.
 
 Website: [codevibes.in](https://CodeVibes.dev)

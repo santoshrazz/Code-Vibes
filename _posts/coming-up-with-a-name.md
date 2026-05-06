@@ -1,5 +1,5 @@
 ---
-title: "Coming up with the name for our studio"
+title: "Coming up with the name for our company"
 excerpt: "A short story about how we came up with the name Ghostbyte and some tips on finding company names."
 coverImage: "/assets/blog/studio-name/cover.webp"
 date: "2025-10-07"
